@@ -1,0 +1,46 @@
+.droite {
+    position: absolute;
+
+    right:5%;
+
+  }
+  .droite2 /* pour la page creation_du_compte_deux*/
+   {
+    position: absolute;
+
+    left:50%;
+    
+  }
+  .gauche {
+  position: absolute;
+
+  left: 20%;
+  width: 18%;
+}
+.centre {
+  margin: 1em 25%;
+}
+.menufixe {
+  top: 0;
+  left: 0;
+  width: 100%;
+  border: 1px solid #000000;
+  position: absolute;
+  z-index: 2;
+  text-align: center;
+  background-color: #ffffff;
+  line-height: 2em;
+}
+
+html>body .menufixe {
+  position: fixed
+}
+.content {
+  z-index: 1;
+  padding-top: 3em;
+}
+#contenu
+{
+  vertical-align:middle;
+
+}

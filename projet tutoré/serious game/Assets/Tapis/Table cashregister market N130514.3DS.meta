@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: f2458ab92ace1254488c281f0f288b61
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box02
+    100002: Cylinder01
+    100004: Kass_Box
+    100006: kassa_03
+    100008: kassa_axe
+    100010: Line01
+    100012: Line02
+    100014: Line03
+    100016: Line04
+    100018: Line08
+    100020: Line09
+    100022: Line10
+    100024: Line11
+    100026: Line13
+    100028: Line14
+    100030: Line15
+    100032: Line16
+    100034: object0
+    100036: Object01
+    100038: Object03
+    100040: Rectangle0
+    100042: Rectangle1
+    100044: Rectangle2
+    100046: Rectangle3
+    100048: Rectangle4
+    100050: Rectangle5
+    100052: //RootNode
+    400000: Box02
+    400002: Cylinder01
+    400004: Kass_Box
+    400006: kassa_03
+    400008: kassa_axe
+    400010: Line01
+    400012: Line02
+    400014: Line03
+    400016: Line04
+    400018: Line08
+    400020: Line09
+    400022: Line10
+    400024: Line11
+    400026: Line13
+    400028: Line14
+    400030: Line15
+    400032: Line16
+    400034: object0
+    400036: Object01
+    400038: Object03
+    400040: Rectangle0
+    400042: Rectangle1
+    400044: Rectangle2
+    400046: Rectangle3
+    400048: Rectangle4
+    400050: Rectangle5
+    400052: //RootNode
+    2100000: ',Black_'
+    2100002: 'Material #55'
+    2100004: Ceramiks
+    2100006: 'Material #57'
+    2100008: Ceramiks1
+    2100010: 'Material #59'
+    2100012: 'Material #60'
+    2100014: Ceramiks y_
+    2100016: 'Material #62'
+    2100018: w  birch
+    2300000: Box02
+    2300002: Cylinder01
+    2300004: kassa_03
+    2300006: kassa_axe
+    2300008: Line01
+    2300010: Line02
+    2300012: Line03
+    2300014: Line04
+    2300016: Line08
+    2300018: Line09
+    2300020: Line10
+    2300022: Line11
+    2300024: Line13
+    2300026: Line14
+    2300028: Line15
+    2300030: Line16
+    2300032: object0
+    2300034: Object01
+    2300036: Object03
+    2300038: Rectangle0
+    2300040: Rectangle1
+    2300042: Rectangle2
+    2300044: Rectangle3
+    2300046: Rectangle4
+    2300048: Rectangle5
+    3300000: Box02
+    3300002: Cylinder01
+    3300004: kassa_03
+    3300006: kassa_axe
+    3300008: Line01
+    3300010: Line02
+    3300012: Line03
+    3300014: Line04
+    3300016: Line08
+    3300018: Line09
+    3300020: Line10
+    3300022: Line11
+    3300024: Line13
+    3300026: Line14
+    3300028: Line15
+    3300030: Line16
+    3300032: object0
+    3300034: Object01
+    3300036: Object03
+    3300038: Rectangle0
+    3300040: Rectangle1
+    3300042: Rectangle2
+    3300044: Rectangle3
+    3300046: Rectangle4
+    3300048: Rectangle5
+    4300000: Line15
+    4300002: Line01
+    4300004: Line03
+    4300006: Line14
+    4300008: Rectangle0
+    4300010: Rectangle1
+    4300012: Line13
+    4300014: Rectangle2
+    4300016: Object03
+    4300018: Rectangle3
+    4300020: Line08
+    4300022: Line11
+    4300024: Line10
+    4300026: Line09
+    4300028: kassa_03
+    4300030: Line04
+    4300032: Rectangle4
+    4300034: Rectangle5
+    4300036: Box02
+    4300038: Cylinder01
+    4300040: object0
+    4300042: kassa_axe
+    4300044: Object01
+    4300046: Line02
+    4300048: Line16
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
